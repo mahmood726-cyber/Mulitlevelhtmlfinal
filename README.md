@@ -1,5 +1,10 @@
 # 786-MIII — Multilevel & Multivariate Synthesis
 
+> **⚠️ Archived duplicate.** This repository is a byte-identical copy of the
+> canonical repo **[`Metamvhtml`](https://github.com/mahmood726-cyber/Metamvhtml)**
+> (live app: <https://mahmood726-cyber.github.io/Metamvhtml/>). It is kept
+> read-only for history; please use the canonical repo for any updates.
+
 A single-file, **fully offline** meta-analysis dashboard that fits a
 **three-level (multilevel) model** to dependent effect sizes — multiple effects
 nested within studies — using an **iterative GLS (IGLS)** solver with a
